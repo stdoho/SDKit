@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'Pods-SDKit_Tests' in project 'Pods'
+➜ Explicit dependency on target 'Pods-SDKit_Example' in project 'Pods'
+Target 'Pods-SDKit_Example' in project 'Pods'
+➜ Explicit dependency on target 'SDKit' in project 'Pods'
+Target 'SDKit' in project 'Pods' (no dependencies)

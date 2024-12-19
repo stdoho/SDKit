@@ -1,0 +1,52 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c1db48d4c324c8a934573c6f71adde63"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98deb96c5304f14c6a9958a09c5e5536e6"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e980cc96898b220778459a877f201030a2b"
+    }
+  ],
+  "containerPath" : "/Users/shengdong/MyWorkProjects/SDKit/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/shengdong/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/shengdong/Library/Developer/Xcode/DerivedData/Pods-fwmhzckbzbkogxfournoixttnkor/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/shengdong/Library/Developer/Xcode/DerivedData/Pods-fwmhzckbzbkogxfournoixttnkor/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/shengdong/MyWorkProjects/SDKit/Example/build/Pods.build/Release-iphoneos/SDKit.build/Objects-normal/arm64/SDKit-master.swiftconstvalues",
+    "dependencies" : "/Users/shengdong/MyWorkProjects/SDKit/Example/build/Pods.build/Release-iphoneos/SDKit.build/Objects-normal/arm64/SDKit-master.d",
+    "diagnostics" : "/Users/shengdong/MyWorkProjects/SDKit/Example/build/Pods.build/Release-iphoneos/SDKit.build/Objects-normal/arm64/SDKit-master.dia",
+    "emit-module-dependencies" : "/Users/shengdong/MyWorkProjects/SDKit/Example/build/Pods.build/Release-iphoneos/SDKit.build/Objects-normal/arm64/SDKit-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/shengdong/MyWorkProjects/SDKit/Example/build/Pods.build/Release-iphoneos/SDKit.build/Objects-normal/arm64/SDKit-master-emit-module.dia",
+    "swift-dependencies" : "/Users/shengdong/MyWorkProjects/SDKit/Example/build/Pods.build/Release-iphoneos/SDKit.build/Objects-normal/arm64/SDKit-master.swiftdeps"
+  },
+  "/Users/shengdong/MyWorkProjects/SDKit/SDKit/Classes/ReplaceMe.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SDKit.build/Objects-normal/arm64/ReplaceMe.o",
+    "llvm-bc" : "/Users/shengdong/MyWorkProjects/SDKit/Example/build/Pods.build/Release-iphoneos/SDKit.build/Objects-normal/arm64/ReplaceMe.bc",
+    "object" : "/Users/shengdong/MyWorkProjects/SDKit/Example/build/Pods.build/Release-iphoneos/SDKit.build/Objects-normal/arm64/ReplaceMe.o"
+  }
+}

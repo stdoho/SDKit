@@ -1,0 +1,16 @@
+PODS:
+  - SDKit (0.1.0)
+
+DEPENDENCIES:
+  - SDKit (from `../`)
+
+EXTERNAL SOURCES:
+  SDKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SDKit: 10ce5b23eaa38f0137c0d05b79f589b60a98dcdd
+
+PODFILE CHECKSUM: 03d01f203a8f3f123cfb9d0c674943148f31c9dc
+
+COCOAPODS: 1.15.2

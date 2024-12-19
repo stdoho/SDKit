@@ -1,0 +1,5 @@
+ extern const unsigned char SDKitVersionString[];
+ extern const double SDKitVersionNumber;
+
+ const unsigned char SDKitVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:SDKit  PROJECT:Pods-1" "\n";
+ const double SDKitVersionNumber __attribute__ ((used)) = (double)1.;
